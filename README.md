@@ -1,2 +1,0 @@
-# TokyoStationAkinator
-TokyoStationAkinator Page
